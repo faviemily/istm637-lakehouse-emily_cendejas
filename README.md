@@ -14,5 +14,5 @@ Key files:
 - `Screenshots.pdf` (evidence for Parts 1–8)
 
 
-GREAT JOB!!! - Prof. Jamey
-I hope you have fun on the project!
+GREAT JOB!!! - Prof. Jamey (I hope you have fun on the project!)
+
