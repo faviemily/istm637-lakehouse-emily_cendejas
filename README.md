@@ -12,3 +12,7 @@ Key files:
 - `ISTM637_Lakeflow_Ingest_Pipeline.sql`
 - `REPORT.md` (full write‑up)
 - `Screenshots.pdf` (evidence for Parts 1–8)
+
+
+GREAT JOB!!! - Prof. Jamey
+I hope you have fun on the project!
