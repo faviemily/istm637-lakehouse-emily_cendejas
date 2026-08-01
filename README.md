@@ -11,4 +11,4 @@ Key files:
 - `ISTM637_Predictive_Model_Notebook.ipynb`
 - `ISTM637_Lakeflow_Ingest_Pipeline.sql`
 - `REPORT.md` (full write‑up)
-- `/screenshots/` (evidence for Parts 1–8)
+- `Screenshots.pdf` (evidence for Parts 1–8)
